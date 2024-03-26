@@ -1,4 +1,4 @@
-# Tableau de Bord RH - Indicateurs de Performance Clés (KPIs)
+# Tableau de Bord RH: Maximisation des Performances et de la Transparence des Ressources Humaines
 
 ## Description du Projet :
 
